@@ -276,7 +276,7 @@ dependencies {
     modOptional ("maven.modrinth:indium:${property("indium_version")}", runSodium)
     modOptional("maven.modrinth:iris:${property("iris_version")}", runSodium)
 
-    modCompileOnly("maven.modrinth:tacz:1.1.6-hotfix")
+    modCompileOnly("maven.modrinth:timeless-and-classics-zero:1.1.6-hotfix")
 
     // Need this for Iris
     modRuntimeOnly("io.github.douira:glsl-transformer:2.0.1")
